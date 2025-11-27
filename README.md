@@ -1,6 +1,6 @@
 # Hi, I'm Amarnath 👋
 
-🎓 B.Tech in Artificial Intelligence & Data Science  
+🎓 An undergrad student at IIIT Kurnool, India
 🤖 Passionate about Machine Learning, Computer Vision & AI-based Applications  
 🚀 I love building real-world AI projects end-to-end
 
