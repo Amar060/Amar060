@@ -1,6 +1,7 @@
 # Hi, I'm Amarnath 👋
 
 🎓 An undergrad student at IIIT Kurnool
+
 🤖 Passionate about Machine Learning, Computer Vision & AI-based Applications  
 🚀 I love building real-world AI projects end-to-end
 
