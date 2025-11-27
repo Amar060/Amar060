@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Amarnath 👋
 
-<!--
-**Amar060/Amar060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Artificial Intelligence & Data Science  
+🤖 Passionate about Machine Learning, Computer Vision & AI-based Applications  
+🚀 I love building real-world AI projects end-to-end
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Skills & Technologies
+
+Python | TensorFlow | Keras | OpenCV | NumPy | Pandas | SQL | Git
+
+---
+
+### 💡 Featured Project
+
+🔹 **Emotion-Based Music Recommendation System**  
+Real-time emotion detection + mood-based song recommendations  
+GitHub Repo: https://github.com/Amar060/Emotion-based-Music-recommendation-system
+
+---
+
+### 🌱 Currently Learning
+
+- Cloud & Deployment (Docker, Streamlit, Render)
+- Advanced Deep Learning architectures
+
+---
+
+### 📬 Connect With Me
+
+📧 Email: amarreddy200606@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/amarnath-reddy-s-a024912a3/
+
+---
+
+⭐️ “I believe in learning-by-building and experimenting with new ideas.”
